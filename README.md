@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website showcasing my skills, service
 
 ## 🚀 Live Website
 
-[View Portfolio](https://your-portfolio-url.vercel.app)
+https://my-portfolio-indol-rho-87.vercel.app/
 
 ## 👩‍💻 About Me
 
