@@ -1,20 +1,92 @@
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-=======
 # my-portfolio
->>>>>>> fb3519db4fa7bec3a12f4f96f0766670375c17c8
+# Munaza Munir — Portfolio
+
+A modern and responsive personal portfolio website showcasing my skills, services, projects, and development journey.
+
+## 🚀 Live Website
+
+[View Portfolio](https://your-portfolio-url.vercel.app)
+
+## 👩‍💻 About Me
+
+Hi, I'm **Munaza Munir**, a Software Engineering student and Full-Stack Web Developer from Pakistan.
+
+I build modern, responsive, and functional web applications with a focus on clean UI, good user experience, and scalable development.
+
+I'm open to freelance projects, collaborations, and remote opportunities.
+
+## 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Vite
+- Tailwind CSS
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+- REST APIs
+
+## 📌 Featured Projects
+
+### 01 — Complaint Management System
+
+A full-stack complaint management platform where users can submit complaints and administrators can manage, track, and analyze complaints through an admin dashboard.
+
+**Technologies:** React, Node.js, Express, MongoDB
+
+### 02 — E-Commerce Website
+
+A full-stack e-commerce application with product browsing, authentication, shopping cart, wishlist, and other essential shopping features.
+
+**Technologies:** React, Node.js, Express, MongoDB
+
+### 03 — Portfolio Website
+
+A responsive personal portfolio website designed to showcase my skills, projects, services, and professional journey.
+
+**Technologies:** React, CSS, JavaScript
+
+### 04 — Landing Page
+
+A modern responsive landing page focused on clean design, responsive layouts, and user experience.
+
+**Technologies:** HTML, CSS, JavaScript
+
+## 💼 Services
+
+- Frontend Development
+- Full-Stack Web Development
+- Business Websites
+- Landing Pages
+- E-Commerce Websites
+- Web Applications
+- Responsive Website Development
+- Website Maintenance
+
+## 📬 Contact
+
+Have a project or idea?
+
+I'm available for freelance projects, collaborations, and development opportunities.
+
+**Email:** munazaengineering@email.com
+
+**LinkedIn:**  
+https://www.linkedin.com/in/munaza-munir-84099837a
+
+**GitHub:**  
+https://github.com/MunazaMunir-dev
+
+**YouTube:**  
+https://www.youtube.com/@MunazaMunir1
+
+**Instagram:**  
+https://www.instagram.com/munaza_munir1
+
+## 📄 License
+
+This project is created and maintained by **Munaza Munir**.
